@@ -41,8 +41,7 @@ int top()
 }
 
 
-int main()
-{
+int main(){
 	push(1);
 	push(3);
 	push(5);
